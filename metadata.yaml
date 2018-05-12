@@ -1,16 +1,22 @@
 _repo: Der-Ackermann-aus-Bohmen_47465
+_version: 0.1.0
 contributor:
   creator:
     editor:
       agent_name: Knieschek, Johann
       gutenberg_agent_id: '44329'
       url: http://www.gutenberg.org/2009/agents/44329
+covers:
+- cover_type: archival
+  image_path: 47465-h/images/cover.jpg
 creator:
   author:
     agent_name: Tepl, Johannes von
     gutenberg_agent_id: '44328'
     url: http://www.gutenberg.org/2009/agents/44328
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47465#Der-Ackermann-aus-Bohmen
 gutenberg_issued: '2014-11-26'
 gutenberg_type: Text
 identifiers:
